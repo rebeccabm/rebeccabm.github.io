@@ -53,13 +53,21 @@ html, body{
 }
 
 .content h1{
-	color: var(--black);
+	color: var(--blue);
 	font-size: 350%;
 	margin: 0px 0px;
 	text-align: center;
 	text-transform: bold;
 	font-family: milkshake;
 	font-weight: 100;
+}
+
+#Rebecca{
+	color: var(--purple);
+}
+
+#Bermingham{
+	color: var(--lime);
 }
 
 .container{
